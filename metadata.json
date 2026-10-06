@@ -1,0 +1,6 @@
+{
+  "name": "மாணவர் திரள் பதிவேடு — Student Cumulative Record Studio",
+  "description": "Clean, print-ready A4 Tamil Nadu Student Cumulative Record (மாணவர் திரள் பதிவேடு) document formatter, interactive editor, and professional CSS stylesheet generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
